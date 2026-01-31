@@ -1,7 +1,7 @@
 {
   "name": "QuickSpam",
-  "description": "Adds a button to quickly spam /fish1",
-  "authors": [{ "name": "Jayden" }],
+  "description": "Button to spam /fish1",
+  "authors": [{"name": "Jayden"}],
   "main": "index.js",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
